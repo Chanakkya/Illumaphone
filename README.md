@@ -4,15 +4,15 @@ them to electrical signals using resistors and Arduino’s analog input, and gen
 frequencies and sine waves with chuck, integrating it with an interface to monitor the input
 data.
 
-SOFTWARE REQUIREMENTS:\n
-• Arduino IDE
-• MiniAudicle
-• Thingspeak
+SOFTWARE REQUIREMENTS:<br>
+• Arduino IDE<br>
+• MiniAudicle<br>
+• Thingspeak<br>
 
-HARDWARE REQUIREMENTS:
-• Arduino UNO board
-• 6 - LDR resistors
-• 6 - 330 ohm resistors
-• Breadboard
-• jumper wires
+HARDWARE REQUIREMENTS:<br>
+• Arduino UNO board<br>
+• 6 - LDR resistors<br>
+• 6 - 330 ohm resistors<br>
+• Breadboard<br>
+• jumper wires<br>
 • alligator pins
