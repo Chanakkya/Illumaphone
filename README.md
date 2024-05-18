@@ -4,7 +4,7 @@ them to electrical signals using resistors and Arduino’s analog input, and gen
 frequencies and sine waves with chuck, integrating it with an interface to monitor the input
 data.
 
-SOFTWARE REQUIREMENTS:
+SOFTWARE REQUIREMENTS:\n
 • Arduino IDE
 • MiniAudicle
 • Thingspeak
